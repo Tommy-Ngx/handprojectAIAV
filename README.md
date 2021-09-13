@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/codingmentor.png" width="124px"/><br/>
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/handprojectAIAV/main/pic/result.jpg" width="224px"/><br/>
   💪 YOLO V4 Fracture for Hand
 </h1>
 
@@ -18,20 +18,15 @@
 
 ### 🎁 Model for training: 
 - Yolo 
-- Homework 2: https://github.com/Tommy-Ngx/Swift_CM/blob/main/Class2/CodingMentor/CodingMentor/ViewController.swift
+- Homework 2: https://github.com/Tommy-Ngx/handprojectAIAV/blob/main/YOLO4.py
 
 
+### 👉 Slide for presentation
 
-
-
-### 📖 Simple App: LottoNumber
-
-- Gif Animation download :  https://lottiefiles.com/recent
-- App Resize Icon:          https://appiconmaker.co/
-- Main:                     https://github.com/Tommy-Ngx/Swift_CM/blob/main/SimpleApp/LottoGame/NumbersGame/ViewController.swift
+- Final Slide :  https://github.com/Tommy-Ngx/handprojectAIAV/blob/main/Bone%20Fracture%20Final.pdf
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tommy-Ngx/Swift_CM/main/Picture/lottomentor.png" width="124px"/>
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/handprojectAIAV/main/pic/example.png" width="524px"/>
 </h1>
 
 
