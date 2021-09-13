@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tommy-Ngx/handprojectAIAV/main/pic/result.jpg" width="224px"/><br/>
+  <img src="https://raw.githubusercontent.com/Tommy-Ngx/handprojectAIAV/main/pic/result.jpg" width="124px"/><br/>
   💪 YOLO V4 Fracture for Hand
 </h1>
 
@@ -17,8 +17,7 @@
 - Can be found here: https://drive.google.com/drive/folders/12pks9Wxx25cmmfU-YtEraDbY_vyoPS-k?usp=sharing
 
 ### 🎁 Model for training: 
-- Yolo 
-- Homework 2: https://github.com/Tommy-Ngx/handprojectAIAV/blob/main/YOLO4.py
+- Yolo V4 tensor: https://github.com/Tommy-Ngx/handprojectAIAV/blob/main/YOLO4.py
 
 
 ### 👉 Slide for presentation
@@ -29,6 +28,10 @@
   <img src="https://raw.githubusercontent.com/Tommy-Ngx/handprojectAIAV/main/pic/example.png" width="524px"/>
 </h1>
 
+### References:
+- Darknet basic: https://github.com/pjreddie/darknet
+- Flask Deployment: https://github.com/krishnaik06/Deployment-flask
+- An implementation of MURA Dataset Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs : https://github.com/desimone/Musculoskeletal-Radiographs-Abnormality-Classifier
 
 
 ## ⭐️ 🎉  Project together with: 
